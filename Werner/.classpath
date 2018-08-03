@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/imagestore-1-0.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/imagestoreclient.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/imgscalr-lib-4.2.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/sqljdbc4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Eclipse/Jars/poi-3.14/poi-3.14-20160307.jar"/>
 	<classpathentry kind="lib" path="C:/Eclipse/Jars/poi-3.14/poi-ooxml-3.14-20160307.jar"/>
 	<classpathentry kind="lib" path="C:/Eclipse/Jars/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="lib" path="C:/Eclipse/Jars/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar"/>
 	<classpathentry kind="lib" path="C:/Eclipse/Jars/commons-io-2.5/commons-io-2.5.jar"/>
 	<classpathentry kind="lib" path="C:/Werner/Software/Apache Commons Net 3.6/commons-net-3.6/commons-net-3.6.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/com.ibm.dhbcore.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/com.ibm.mq.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/com.ibm.mq.jmqi.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/com.ibm.mqjms.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/javax.resource.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/activemq-all-4.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/javaee.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/java-mail-1.4.4.jar"/>
-	<classpathentry kind="lib" path="C:/Eclipse/Eclipse_Mars/Workspace/Werner/lib/commons-email-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Jars/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Jars/httpcomponents-client-4.5.1/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Jars/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
